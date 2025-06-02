@@ -1,8 +1,8 @@
 #include <stdio.h>
 void main()
 {
-    int a = 10; // Declare and initialize integer variable 'a'
-    int b = 20; // Declare and initialize integer variable 'b'
+    int a = 10;    // Declare and initialize integer variable 'a'
+    int b = 20;    // Declare and initialize integer variable 'b'
     int c = a + b; // Perform addition and store in 'c'
 
     // Print the result using printf
